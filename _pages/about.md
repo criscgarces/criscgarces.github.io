@@ -17,8 +17,8 @@ My work applies machine learning to binary analysis and reverse engineering. The
 
 # Teaching
 
-I have taught in sixteen course assignments across two institutions and received a departmental Outstanding Graduate Teaching Award at both. I have served as instructor of record for the computer systems lab at Tulane, supervising two undergraduate course assistants, and as a teaching assistant for theory of computation (five semesters), computer organization, information security, discrete structures, and object-oriented programming. I am best prepared to teach theory of computation and the computer systems sequence (computer systems, computer organization, and information security). Details are on the [teaching](/teaching/) page.
+I have extensive teaching experience across two institutions and have received a departmental **Outstanding Graduate Teaching Award** at both. I have served as instructor of record for the computer systems lab at Tulane, supervising two undergraduate course assistants, and as a teaching assistant for theory of computation, computer organization, information security, discrete structures, and object-oriented programming. I am best prepared to teach theory of computation and the computer systems sequence (computer systems, computer organization, and information security). Details are on the [teaching](/teaching/) page.
 
 # Background
 
-Before Tulane, I completed my B.S. in Computer Science and Engineering, summa cum laude and with honors, at the University of Texas at Arlington, where I began the PhD and transferred to Tulane with my advisor.
+Before Tulane, I completed my B.S. in Computer Science, summa cum laude and with honors, at the University of Texas at Arlington, where I began the PhD and transferred to Tulane with my advisor.
